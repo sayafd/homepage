@@ -1,0 +1,44 @@
+li{
+  list-style: none ;
+  float:left;
+  padding:10px 20px;
+}
+
+.header{
+    background-color:#afd0ef;
+    color:white;
+    width:700px;
+    height:100px;
+  }
+
+.header-logo{
+  font-size : 25px;
+  float:left;
+  padding:30px 10px 0px 5px;
+}
+
+.header-list{
+  font-size :20px;
+  float:left;
+  padding:30px 5px 10px 10px;
+}
+
+.main{
+    widows: 700px;
+    height:2000px;
+    background :white;
+  }
+.face{
+color:#9ecaf3;
+}
+.back{
+color:rgb(247, 174, 132);
+}
+.footer{
+    background-color:#ceccf3;
+    width:700px;
+    height:100px;
+}
+h4{
+  color:#9ecaf3;
+}
